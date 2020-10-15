@@ -1,6 +1,6 @@
 # CrazyScientist: An award winning game at FUM GameJam for Best Game Design
 
-This game is a 2D top-down game with an innovative game design. In this game, time is stopped as long as player is still. Consequently, if you move in any direction, time moves forward and NPCs do their works.
+This game is a 2D top-down game with an innovative game design. In this game, time is stopped as long as the player is still. Consequently, if the player moves in any direction, time moves forward and NPCs do their works.
 
 Another interesting point about this game would be its portals.
 
