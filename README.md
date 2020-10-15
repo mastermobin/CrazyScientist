@@ -4,7 +4,7 @@ This game is a 2D top-down game with an innovative game design. In this game, ti
 
 Another interesting point about this game would be its portals.
 
-You can find a demo video [Here](/Demo.mp4)
+You can find a demo video [Here](/Demo.mp4).
 
 ## Screenshots:
 ![Screenshot 1](/Images/Screen1.png)
